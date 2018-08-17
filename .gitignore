@@ -1,0 +1,16 @@
+# Archived Artifacts
+*.zip
+*.rar
+*.bz2
+*.tar
+*.gz
+*.tar.gz
+
+# Folders
+release/
+.vscode/
+node_modules/
+
+# Runtime Data
+*.sqlite
+*.exe
